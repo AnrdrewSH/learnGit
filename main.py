@@ -1,4 +1,4 @@
 def log(message):
-        print(message);
+        print("[log]: " + message);
 
-log("log message");
+log("some message");
